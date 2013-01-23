@@ -4,13 +4,16 @@ Retrieves all the image files within your `.fla` files.
 ## How to use it
 You can either run it thru cli:
 	
-	# Passing a single file
+Passing a single file
+
 	sh fla2img.sh foo.fla
 
-	# Passing multiple files
+Passing multiple files
+
 	sh fla2img.sh foo.fla bar.fla
 
-	# Passing a path of files
+Passing a path of files
+
 	sh fla2img.sh path/of/flas/
 
 Or simply open the `.fla` files with the images you want, then drag `fla2img.jsfl` to Flash icon.
